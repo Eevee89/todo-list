@@ -1,0 +1,8 @@
+{
+  "name": "todo-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "3aed1fc5"
+}
